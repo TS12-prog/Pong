@@ -1,3 +1,2 @@
-# Python_projects
-a few small python projects to track my personal progress as I go forward with this.
-1)Pong
+# Pong
+Simple pong game that is played with the computer using pygame.
